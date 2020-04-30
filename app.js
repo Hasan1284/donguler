@@ -117,3 +117,4 @@ let people = [
  var sayi = Math.floor((Math.random()*10)+1);
 
 
+dsdsadad
