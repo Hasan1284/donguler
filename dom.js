@@ -47,3 +47,11 @@ let val;
 
  // console.log(val);
 
+// let val;
+
+// let list = document.querySelector('.list-group');
+// val = list;
+
+// val = list.childNodes;
+// val = list.childNodes[1].nodeName;
+// // console.log(val);
