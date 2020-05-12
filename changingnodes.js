@@ -14,5 +14,5 @@ const taskList = document.querySelector('#task-list');
 for(let i=0;i<taskList.children.length;i++){
     taskList.children[i].removeAttribute('class');
 }
-// ---
+// -----
 console.log(taskList);
